@@ -12,3 +12,5 @@ https://agoetz4407.github.io/run-buddy
 
 ## Contribution
 Made with ❤️ by Andrew Goetz
+
+### ©️2019 Run Buddy, Inc
